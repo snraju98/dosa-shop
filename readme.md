@@ -12,9 +12,13 @@
 * Oil 
 * Erra karam
 
-<
+
 ## Egg Dosa
 * Dosa Batter
 * oil
 * 1/2 Eggs
->
+
+## Masala Dosa
+* Dosa Batter
+* oil
+* aloo Masala
