@@ -12,7 +12,9 @@
 * Oil 
 * Erra karam
 
+<
 ## Egg Dosa
 * Dosa Batter
 * oil
-* 1 Egg:
+* 1/2 Eggs
+>
