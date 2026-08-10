@@ -32,3 +32,6 @@
 * Dosa Batter
 * Ghee
 * Karam
+
+## Egg Karam Dosa
+* Dosa Batter
